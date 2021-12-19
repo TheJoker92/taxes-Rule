@@ -1,0 +1,7 @@
+Author: Alessandro De Micco
+
+for running python script
+    python3 taxesRule.py <filename1> ... <filename2>
+
+EXAMPLE
+    python3 taxesRule.py input1 input2 input3
